@@ -1763,6 +1763,29 @@
         "loadMessage": null
       },
       {
+        "id": "quizans01-04",
+        "label_header": "",
+        "label": "練習1-4の解答",
+        "sourceFiles": [
+          "Monster.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans01-05",
+        "label_header": "",
+        "label": "練習1-5の解答",
+        "sourceFiles": [
+          "Main.java",
+          "Monster.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
         "id": "quizans02-01",
         "label_header": "",
         "label": "練習2-1の解答",

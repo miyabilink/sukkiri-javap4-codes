@@ -22,7 +22,7 @@ public class Main {
     b3.setComment("ポインタも自由自在");
     books.add(b3);
 
-    Collections.sort(books, new TitleComparator());
+    Collections.sort(books, new TitleComparator());  /* 別解：books.sort(new TitleComparator()); */
 
     for (Book b : books) {
       System.out.println(b.getTitle() + " "
