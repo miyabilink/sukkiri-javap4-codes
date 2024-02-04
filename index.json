@@ -150,6 +150,64 @@
         "loadMessage": null
       },
       {
+        "id": "code01-13",
+        "label_header": "コード1-13",
+        "label": "ログイン情報を表すクラス",
+        "sourceFiles": [
+          "LoginHistory.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-14",
+        "label_header": "コード1-14",
+        "label": "レコードを利用して宣言したLoginHistory",
+        "sourceFiles": [
+          "LoginHistory.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-15",
+        "label_header": "コード1-15",
+        "label": "LoginHistoryレコードの利用",
+        "sourceFiles": [
+          "Main.java",
+          "LoginHistory.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-16",
+        "label_header": "コード1-16",
+        "label": "追加のコンストラクタ宣言",
+        "sourceFiles": [
+          "LoginHistory.java",
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-17",
+        "label_header": "コード1-17",
+        "label": "コンパクト・コンストラクタ",
+        "sourceFiles": [
+          "LoginHistory.java",
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
         "id": "quiz01-01",
         "label_header": "",
         "label": "練習1-1",
