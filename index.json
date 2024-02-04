@@ -2080,5 +2080,430 @@
         "loadMessage": "このコードはdokojavaでは実行できません"
       }
     ]
+  },
+  {
+    "id": "chapab",
+    "label": "付録B 練習問題の解答",
+    "children": [
+      {
+        "id": "quizans01-01",
+        "label_header": "",
+        "label": "練習1-1の解答",
+        "sourceFiles": [
+          "Book.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans01-02",
+        "label_header": "",
+        "label": "練習1-2の解答",
+        "sourceFiles": [
+          "TitleComparator.java",
+          "Book.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans01-03",
+        "label_header": "",
+        "label": "練習1-3の解答",
+        "sourceFiles": [
+          "Main.java",
+          "Book.java",
+          "TitleComparator.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans02-01",
+        "label_header": "",
+        "label": "練習2-1の解答",
+        "sourceFiles": [
+          "StrongBox.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans02-02",
+        "label_header": "",
+        "label": "練習2-2の解答",
+        "sourceFiles": [
+          "KeyType.java",
+          "StrongBox.java",
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans03-01",
+        "label_header": "",
+        "label": "練習3-1の解答",
+        "sourceFiles": [
+          "Func1.java",
+          "Func2.java",
+          "Main.java",
+          "FuncList.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans03-02",
+        "label_header": "",
+        "label": "練習3-2の解答",
+        "sourceFiles": [
+          "Main.java",
+          "Func1.java",
+          "Func2.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans03-03",
+        "label_header": "",
+        "label": "練習3-3の解答",
+        "sourceFiles": [
+          "Main.java",
+          "Func2.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans03-04",
+        "label_header": "",
+        "label": "練習3-4の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-01",
+        "label_header": "",
+        "label": "練習4-1の解答",
+        "sourceFiles": [
+          "Launcher.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはコマンドライン引数の指定が必要なため、dokojavaでは実行できません"
+      },
+      {
+        "id": "quizans04-02",
+        "label_header": "",
+        "label": "練習4-2の解答",
+        "sourceFiles": [
+          "MemoryEater.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans05-02",
+        "label_header": "",
+        "label": "練習5-2の解答",
+        "sourceFiles": [
+          "Book.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードが利用しているcommons-lang3は、dokojavaではコンパイルのみサポートしています。dokojavaではコンパイルは成功しますが実行できません"
+      },
+      {
+        "id": "quizans06-01",
+        "label_header": "",
+        "label": "練習6-1の解答",
+        "sourceFiles": [
+          "Main.java",
+          "AnotherMain.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはコマンドライン引数の指定およびファイルを読み書きするため、dokojavaでは実行できません"
+      },
+      {
+        "id": "quizans06-02",
+        "label_header": "",
+        "label": "練習6-2の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": "このコードはコマンドライン引数の指定およびファイルを読み書きするため、dokojavaでは正しく実行できません"
+      },
+      {
+        "id": "quizans07-01",
+        "label_header": "",
+        "label": "練習7-1の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはファイルを読み書きするため、dokojavaでは実行できません"
+      },
+      {
+        "id": "quizans07-02",
+        "label_header": "",
+        "label": "練習7-2の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはファイルを読み書きするため、dokojavaでは実行できません"
+      },
+      {
+        "id": "quizans07-03",
+        "label_header": "",
+        "label": "練習7-3の解答",
+        "sourceFiles": [
+          "Main.java",
+          "Employee.java",
+          "Department.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはファイルを読み書きするため、dokojavaでは実行できません"
+      },
+      {
+        "id": "quizans08-01",
+        "label_header": "",
+        "label": "練習8-1の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードは外部ネットワークへのアクセスが必要なため、dokojavaでは実行できません"
+      },
+      {
+        "id": "quizans08-02",
+        "label_header": "",
+        "label": "練習8-2の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードは外部ネットワークへのアクセスが必要なため、dokojavaでは実行できません"
+      },
+      {
+        "id": "quizans08-03",
+        "label_header": "",
+        "label": "練習8-3の解答",
+        "sourceFiles": [
+          "Main.java"
+        ],
+        "isCompileError": true,
+        "isRuntimeError": false,
+        "loadMessage": "このコードは外部ライブラリの利用および外部ネットワークへのアクセスが必要なため、dokojavaでは実行できません"
+      },
+      {
+        "id": "quizans09-01",
+        "label_header": "",
+        "label": "練習9-1の解答",
+        "sourceFiles": [
+          "Item.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans09-02",
+        "label_header": "",
+        "label": "練習9-2の解答",
+        "sourceFiles": [
+          "ItemsDAO.java",
+          "Item.java",
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはデータベースへのアクセスが必要なため、dokojavaでは実行できません"
+      },
+      {
+        "id": "quizans10-01",
+        "label_header": "",
+        "label": "練習10-1の解答",
+        "sourceFiles": [
+          "Bank.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはパッケージを利用しているため、dokojavaでは実行できません"
+      },
+      {
+        "id": "quizans10-02",
+        "label_header": "",
+        "label": "練習10-2の解答",
+        "sourceFiles": [
+          "manifest.txt"
+        ],
+        "isCompileError": true,
+        "isRuntimeError": false,
+        "loadMessage": "このコードはJavaのソースコードではないため、dokojavaでは実行できません"
+      },
+      {
+        "id": "quizans10-04",
+        "label_header": "",
+        "label": "練習10-4の解答",
+        "sourceFiles": [
+          "pom.xml"
+        ],
+        "isCompileError": true,
+        "isRuntimeError": false,
+        "loadMessage": "このコードはJavaのソースコードではないため、dokojavaでは実行できません"
+      },
+      {
+        "id": "quizans11-01",
+        "label_header": "",
+        "label": "練習11-1の解答",
+        "sourceFiles": [
+          "BankTest.java",
+          "Bank.java"
+        ],
+        "isCompileError": true,
+        "isRuntimeError": false,
+        "loadMessage": "このコードは外部ライブラリを利用しているため、dokojavaではコンパイルできません"
+      },
+      {
+        "id": "quizans11-02",
+        "label_header": "",
+        "label": "練習11-2の解答",
+        "sourceFiles": [
+          "Bank.java",
+          "BankTest.java",
+          "pom.xml"
+        ],
+        "isCompileError": true,
+        "isRuntimeError": false,
+        "loadMessage": "このコードは外部ライブラリを利用しているため、dokojavaではコンパイルできません"
+      },
+      {
+        "id": "quizans12-01",
+        "label_header": "",
+        "label": "練習12-1の解答",
+        "sourceFiles": [
+          "Bank.java",
+          "BankTest.java",
+          "pom.xml"
+        ],
+        "isCompileError": true,
+        "isRuntimeError": false,
+        "loadMessage": "このコードは外部ライブラリを利用しているため、dokojavaではコンパイルできません"
+      },
+      {
+        "id": "quizans12-02",
+        "label_header": "",
+        "label": "練習12-2の解答",
+        "sourceFiles": [
+          "Bank.java",
+          "BankTest.java",
+          "pom.xml"
+        ],
+        "isCompileError": true,
+        "isRuntimeError": false,
+        "loadMessage": "このコードは外部ライブラリを利用しているため、dokojavaではコンパイルできません"
+      },
+      {
+        "id": "quizans12-03",
+        "label_header": "",
+        "label": "練習12-3の解答",
+        "sourceFiles": [
+          "Main.java",
+          "pom.xml"
+        ],
+        "isCompileError": true,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans15-02",
+        "label_header": "",
+        "label": "練習15-2の解答",
+        "sourceFiles": [
+          "MyLogger.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans16-01",
+        "label_header": "",
+        "label": "練習16-1の解答",
+        "sourceFiles": [
+          "CountUpThread.java",
+          "Main.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans16-02",
+        "label_header": "",
+        "label": "練習16-2の解答",
+        "sourceFiles": [
+          "Counter.java",
+          "AnotherCounter.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans17-01",
+        "label_header": "",
+        "label": "練習17-1の解答",
+        "sourceFiles": [
+          "Main.java",
+          "IDPanel.java",
+          "PWPanel.java",
+          "CheckPanel.java",
+          "ButtonPanel.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokojavaでは実行できません"
+      },
+      {
+        "id": "quizans17-02",
+        "label_header": "",
+        "label": "練習17-2の解答",
+        "sourceFiles": [
+          "Main.java",
+          "IDPanel.java",
+          "PWPanel.java",
+          "CheckPanel.java",
+          "ButtonPanel.java"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokojavaでは実行できません"
+      }
+    ]
   }
 ]
