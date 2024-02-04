@@ -1719,36 +1719,6 @@
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはdokojavaでは実行できません"
-      },
-      {
-        "id": "quizans17-01",
-        "label_header": "",
-        "label": "練習17-1の解答",
-        "sourceFiles": [
-          "Main.java",
-          "IDPanel.java",
-          "PWPanel.java",
-          "CheckPanel.java",
-          "ButtonPanel.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
-        "loadMessage": "このコードはdokojavaでは実行できません"
-      },
-      {
-        "id": "quizans17-02",
-        "label_header": "",
-        "label": "練習17-2の解答",
-        "sourceFiles": [
-          "Main.java",
-          "IDPanel.java",
-          "PWPanel.java",
-          "CheckPanel.java",
-          "ButtonPanel.java"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
-        "loadMessage": "このコードはdokojavaでは実行できません"
       }
     ]
   },
